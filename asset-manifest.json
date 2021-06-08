@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/inko/kirill-task/static/css/main.3d497511.chunk.css",
+    "main.js": "/inko/kirill-task/static/js/main.22aba149.chunk.js",
+    "main.js.map": "/inko/kirill-task/static/js/main.22aba149.chunk.js.map",
+    "runtime-main.js": "/inko/kirill-task/static/js/runtime-main.8d1a3597.js",
+    "runtime-main.js.map": "/inko/kirill-task/static/js/runtime-main.8d1a3597.js.map",
+    "static/js/2.6b93126b.chunk.js": "/inko/kirill-task/static/js/2.6b93126b.chunk.js",
+    "static/js/2.6b93126b.chunk.js.map": "/inko/kirill-task/static/js/2.6b93126b.chunk.js.map",
+    "assets/CloseMenu.svg": "/inko/kirill-task/assets/CloseMenu.svg",
+    "assets/SupportTelegram.svg": "/inko/kirill-task/assets/SupportTelegram.svg",
+    "assets/bg.svg": "/inko/kirill-task/assets/bg.svg",
+    "assets/menu.svg": "/inko/kirill-task/assets/menu.svg",
+    "index.html": "/inko/kirill-task/index.html",
+    "precache-manifest.95c12f91e841b16f60ad240b3e7e67d2.js": "/inko/kirill-task/precache-manifest.95c12f91e841b16f60ad240b3e7e67d2.js",
+    "service-worker.js": "/inko/kirill-task/service-worker.js",
+    "static/css/main.3d497511.chunk.css.map": "/inko/kirill-task/static/css/main.3d497511.chunk.css.map",
+    "static/js/2.6b93126b.chunk.js.LICENSE.txt": "/inko/kirill-task/static/js/2.6b93126b.chunk.js.LICENSE.txt",
+    "static/media/CloseMenu.ebcd4a9b.svg": "/inko/kirill-task/static/media/CloseMenu.ebcd4a9b.svg",
+    "static/media/SupportTelegram.63ceb31c.svg": "/inko/kirill-task/static/media/SupportTelegram.63ceb31c.svg",
+    "static/media/menu.5f52fb6f.svg": "/inko/kirill-task/static/media/menu.5f52fb6f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d1a3597.js",
+    "static/js/2.6b93126b.chunk.js",
+    "static/css/main.3d497511.chunk.css",
+    "static/js/main.22aba149.chunk.js"
+  ]
+}
