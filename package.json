@@ -1,5 +1,6 @@
 {
-  "name": "react-spa-template",
+  "name": "kirill-task",
+  "homepage": "https://chlenc.github.io/kirill-task",
   "version": "0.1.1",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@types/classnames": "^2.2.10",
     "axios": "^0.21.1",
     "classnames": "^2.2.6",
+    "gh-pages": "^3.2.0",
     "mobx": "^5.15.6",
     "mobx-react-lite": "^2.2.0",
     "react": "^16.13.1",
@@ -19,7 +21,8 @@
     "start": "./env-to-config.sh && mv env-config.js ./public/ && node scripts/start.js",
     "format": "prettier --write \"src/**/*.{ts,js,tsx,jsx,css}\"",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
